@@ -1,7 +1,7 @@
 [{ 
 "logo": "http://livetvjobayer.xyz/Picsart_23-02-01_22-00-40-486.png",
 "name": "beIN Premium 1", 
-"link": "http://jiocinema-localiptv.tk/beINPremium1.m3u8",
+"link": "http://he11o.akadatel.com/iptv/CSE5XXLR4NGMLY/6660/index.m3u8",
 "origin": "",
 "referrer": "",
 userAgent": "", 
