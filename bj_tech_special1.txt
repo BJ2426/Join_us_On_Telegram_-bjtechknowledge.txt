@@ -1,7 +1,7 @@
 [{ 
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",
 "name": "beIN Premium 1", 
-"link": "http://jiocinema-localiptv.tk/beINPremium1.m3u8",
+"link": "https://72n5.short.gy/LIVE_LINK-1.m3u8",
 "origin": "",
 "referrer": "",
 userAgent": "", 
