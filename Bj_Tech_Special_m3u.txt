@@ -1,4 +1,4 @@
-[},{ 
+[{ 
 "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
 "name": "JV_CricketEnglishHD_DIG_MOB", 
 "link": "https://jiolivestreaming.akamaized.net/bpk-tv/JV_CricketEnglishHD_DIG_MOB/Fallback/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
