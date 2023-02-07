@@ -1,14 +1,4 @@
-[{ 
-"logo": "http://livetvjobayer.xyz/Picsart_23-02-01_22-00-40-486.png",
-"name": "beIN Premium 1", 
-"link": "http://jiocinema-localiptv.tk/beINPremium1.m3u8",
-"origin": "",
-"referrer": "",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "widevine", 
-"drmLicense": "DRM" 
-},
+[},{ 
 "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
 "name": "JV_CricketEnglishHD_DIG_MOB", 
 "link": "https://jiolivestreaming.akamaized.net/bpk-tv/JV_CricketEnglishHD_DIG_MOB/Fallback/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
@@ -18,7 +8,77 @@ userAgent": "",
 "cookie": "",
 "drmScheme": "widevine", 
 "drmLicense": "DRM" 
-},{
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_CricketHindiHD_DIG_MOB", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/JV_CricketHindiHD_DIG_MOB/Fallback/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_English_DIG_MOB", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/JV_SportsHD_English_DIG_MOB/Fallback/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Hindi_DIG_MOB", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/JV_SportsHD_Hindi_DIG_MOB/Fallback/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Bengali_DIG_MOB", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/JV_SportsHD_Bengali_DIG_MOB/Fallback/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Tamil_DIG_MOB", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/JV_SportsHD_Tamil_DIG_MOB/Fallback/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Malayalam_DIG_MOB", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/JV_SportsHD_Malayalam_DIG_MOB/Fallback/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Telugu_DIG_MOB", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/JV_SportsHD_Telugu_DIG_MOB/Fallback/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/VH1_2003_logo.svg/2560px-VH1_2003_logo.svg.png",
 "name": "Vh1", 
 "link": "https://jiolivestreaming.akamaized.net/bpk-tv/Vh1_HD_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
@@ -1014,7 +1074,21 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "link": "https://jiolivestreaming.akamaized.net/bpk-tv/B4U_Kadak_MOB/WDVLive/index.mpd",
 "origin": "JioTV CH",
 "referrer": "JioTV CH",
-{
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999015&videoid=1309&vootid=1309&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiNzhhYjkyY2YtNjdkMS00YzAwLWJmNGEtMjIzNzA1M2UwNDRkIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjc1MTc5MjE0LCJleHAiOjE2NzYwNDMyMTQsImlzcyI6InZvb3QifQ.kDV9GeQipw3Nah-UwsUvKO_wP8lnzdtKmchkYcfJ7jg"
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",
+"name": "Jio Football", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Jio_Football_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999015&videoid=1309&vootid=1309&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiNzhhYjkyY2YtNjdkMS00YzAwLWJmNGEtMjIzNzA1M2UwNDRkIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjc1MTc5MjE0LCJleHAiOjE2NzYwNDMyMTQsImlzcyI6InZvb3QifQ.kDV9GeQipw3Nah-UwsUvKO_wP8lnzdtKmchkYcfJ7jg" 
+}, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png",
 "name": "Jio Football 1", 
 "link": "https://jiolivestreaming.akamaized.net/bpk-tv/Jio_Football_1_MOB/WDVLive/index.mpd",
@@ -1054,4 +1128,15 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "cookie": "COOKIE",
 "drmScheme": "widevine", 
 "drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999015&videoid=1309&vootid=1309&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiNzhhYjkyY2YtNjdkMS00YzAwLWJmNGEtMjIzNzA1M2UwNDRkIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjc1MTc5MjE0LCJleHAiOjE2NzYwNDMyMTQsImlzcyI6InZvb3QifQ.kDV9GeQipw3Nah-UwsUvKO_wP8lnzdtKmchkYcfJ7jg" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png",
+"name": "Jio Football Hindi HD", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Jio_Football_Hindi_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999015&videoid=1309&vootid=1309&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiNzhhYjkyY2YtNjdkMS00YzAwLWJmNGEtMjIzNzA1M2UwNDRkIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjc1MTc5MjE0LCJleHAiOjE2NzYwNDMyMTQsImlzcyI6InZvb3QifQ.kDV9GeQipw3Nah-UwsUvKO_wP8lnzdtKmchkYcfJ7jg" 
 }]
+
