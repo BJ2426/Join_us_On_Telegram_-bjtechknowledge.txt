@@ -1,7 +1,7 @@
 [{
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/VH1_2003_logo.svg/2560px-VH1_2003_logo.svg.png",
 "name": "Vh1", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Vh1_HD_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/SPORTS_18HD_1.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -31,7 +31,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
 "name": "Nick HD Plus", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Nick_HD_Plus_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/NICK_HD.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -41,7 +41,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png",
 "name": "Sonic Nickelodeon", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Sonic_Nickelodeon_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/NICK_HD.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -51,7 +51,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
 "name": "Sports18 1 HD", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/MTV+_BJTECH.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -71,7 +71,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
 "name": "MTV Beats HD", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/MTV_Beats_HD_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/MTV_BTECH.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -81,7 +81,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
 "name": "Colors HD", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/COLORS_HD.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -91,7 +91,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",
 "name": "Colors Tamil HD", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Tamil_HD_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/COLORS_TAMIL.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -111,7 +111,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
 "name": "Colors Marathi HD", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Marathi_HD_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/Colors_HD_MARATHI.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -151,7 +151,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
 "name": "Colors Cineplex", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/COLORS_CINEPLEX_HD_BJTECH.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -161,7 +161,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
 "name": "Colors Cineplex Bollywood", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/COLORS_BOLLYWOOD.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -171,7 +171,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
 "name": "Rishtey Cineplex", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Rishtey_Cineplex_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675713230~exp=1675799630~acl=/*~hmac=5ac0746ad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://72n5.short.gy/Colors_Superhit.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
