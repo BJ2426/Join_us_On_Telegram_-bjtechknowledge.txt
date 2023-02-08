@@ -31,7 +31,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
 "name": "Nick HD Plus", 
-"link": "https://72n5.short.gy/NICK_HD.m3u8",
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Nick_HD_Plus_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675833208~exp=1675919608~acl=/*~hmac=1e1044e55c8fcbdcaefb00beb9815df8ae7523e430d8ab21f0c4e24c91a33d0d",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -61,7 +61,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
 "name": "MTV HD Plus", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675833208~exp=1675919608~acl=/*~hmac=1e1044e55c8fcbdcaefb00beb9815df8ae7523e430d8ab21f0c4e24c91a33d0dad2171aeee1ae34a172f98e1e7d324cf16c4f4cd20abe0d938c555dd4",
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675833208~exp=1675919608~acl=/*~hmac=1e1044e55c8fcbdcaefb00beb9815df8ae7523e430d8ab21f0c4e24c91a33d0d",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
