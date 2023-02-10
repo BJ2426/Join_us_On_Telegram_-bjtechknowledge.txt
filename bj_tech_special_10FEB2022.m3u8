@@ -1,4 +1,14 @@
 [{
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",
+"name": "Jio Cricket English", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Jio_Cricket_English_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999015&videoid=1309&vootid=1309&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiNzhhYjkyY2YtNjdkMS00YzAwLWJmNGEtMjIzNzA1M2UwNDRkIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjc1MTc5MjE0LCJleHAiOjE2NzYwNDMyMTQsImlzcyI6InZvb3QifQ.kDV9GeQipw3Nah-UwsUvKO_wP8lnzdtKmchkYcfJ7jg" 
+},{
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/VH1_2003_logo.svg/2560px-VH1_2003_logo.svg.png",
 "name": "Vh1", 
 "link": "https://jiolivestreaming.akamaized.net/bpk-tv/Vh1_HD_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675915628~exp=1676002028~acl=/*~hmac=acfad7c8c4714fc2ec1c95f923c4f9619520aa0657ac36a1aa84e5542516c662",
