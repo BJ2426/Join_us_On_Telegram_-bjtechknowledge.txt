@@ -20,7 +20,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "drmLicense": "ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295" 
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",
-"name": "Star Bharat", 
+"name": "9XM", 
 "link": "http://0nelivezer0.rbtvnw.com:21190/neptune/9xm/chunks.m3u8?nimblesessionid=69299843&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDk6MDg6NTYgQU0maGFzaF92YWx1ZT1aZm5EMkFaZXVaYXVYYUREcHN6YjhnPT0mdmFsaWRtaW51dGVzPTI=",
 "origin": "",
 "referrer": "",
@@ -30,8 +30,8 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=244" 
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png",
-"name": "Star Utsav", 
-"link": "https://delta31tatasky.akamaized.net/out/i/4101.mpd",
+"name": "NAT GEO WILD HD", 
+"link": "http://0nelivezer0.rbtvnw.com:21190/neptune/natgeowild/chunks.m3u8?nimblesessionid=69323760&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDk6NDM6MDUgQU0maGFzaF92YWx1ZT1kcTRDVWgvZERBZHJ4cVJuMXZlSVh3PT0mdmFsaWRtaW51dGVzPTI=http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -40,8 +40,8 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=551" 
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png",
-"name": "Star Jalsha", 
-"link": "https://delta42tatasky.akamaized.net/out/i/1313336.mpd",
+"name": "STAR SPORTS 1 HD ", 
+"link": "http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -50,8 +50,8 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=468" 
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png",
-"name": "Star Maa", 
-"link": "https://delta32tatasky.akamaized.net/out/i/1734527.mpd",
+"name": "STAR PLUS HD ", 
+"link": "http://212.224.84.217:2200/R-EX/FHD_STAR_PLUS_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
@@ -121,7 +121,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",
 "name": "Star Gold HD", 
-"link": "https://cdn-01.toffeelive.com/origin-06/live-origin/smil:star_gold.smil/manifest.mpd",
+"link": "http://212.224.84.217:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
