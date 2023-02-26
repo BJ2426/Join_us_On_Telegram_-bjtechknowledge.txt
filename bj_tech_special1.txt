@@ -1741,12 +1741,12 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",
 "name": "Star Gold HD", 
-"link": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
+"link": "https://cdn-01.toffeelive.com/origin-04/live-origin/smil:star_plus.smil/manifest.mpd",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
 "cookie": "",
 "drmScheme": "clearkey", 
-"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=245" 
+"drmLicense": "ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295" 
 }]
 
