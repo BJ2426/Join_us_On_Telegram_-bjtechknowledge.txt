@@ -28,17 +28,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "cookie": "",
 "drmScheme": "clearkey", 
 "drmLicense": "ef24fd519715482b8b8f44242bc8d720:8ab7ed4e8edb36d0c61f38877a1e0001" 
-}, {
-"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png",
-"name": "NAT GEO WILD HD", 
-"link": "http://0nelivezer0.rbtvnw.com:21190/neptune/natgeowild/chunks.m3u8?nimblesessionid=69323760&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDk6NDM6MDUgQU0maGFzaF92YWx1ZT1kcTRDVWgvZERBZHJ4cVJuMXZlSVh3PT0mdmFsaWRtaW51dGVzPTI=http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT",
-"origin": "",
-"referrer": "",
-userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
-"cookie": "",
-"drmScheme": "clearkey", 
-"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=551" 
-}, {
+},{
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png",
 "name": "STAR SPORTS 1 HD ", 
 "link": "http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT",
@@ -51,24 +41,14 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png",
 "name": "STAR PLUS HD ", 
-"link": "http://212.224.84.217:2200/R-EX/FHD_STAR_PLUS_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT",
+"link": "https://cdn-01.toffeelive.com/origin-04/live-origin/smil:star_plus.smil/manifest.mpd",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
 "cookie": "",
 "drmScheme": "clearkey", 
-"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=516" 
-}, {
-"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",
-"name": "Star Pravah", 
-"link": "https://delta40tatasky.akamaized.net/out/i/2326439.mpd",
-"origin": "",
-"referrer": "",
-userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
-"cookie": "",
-"drmScheme": "clearkey", 
-"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=469" 
-}, {
+"drmLicense": "ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295" 
+},{
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",
 "name": "Star Sports Select 1 HD", 
 "link": "https://delta14tatasky.akamaized.net/out/i/4779611.mpd",
@@ -77,8 +57,8 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
 "cookie": "",
 "drmScheme": "clearkey", 
-"drmLicense": "https://72n5.short.gy/H66rsT" 
-}, {
+"drmLicense": "ebe2bf81630c4f55b13ce2d5de501a7e:00673790ff976ce11bd2d3701aa8479b" 
+},{
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",
 "name": "Star Sports Select 2 HD", 
 "link": "https://delta43tatasky.akamaized.net/out/i/18038.mpd",
@@ -87,7 +67,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
 "cookie": "",
 "drmScheme": "clearkey", 
-"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=463" 
+"drmLicense": "72128b54ec9b44f4b2de808123155804:447524af6faa0e9b56d808a9f8b958db" 
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",
 "name": "Disney Hindi", 
@@ -101,13 +81,13 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",
 "name": "STAR SPORTS S 1 HD", 
-"link": "https://delta14tatasky.akamaized.net/out/i/4779611.mpd",
+"link": "https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
 "cookie": "",
 "drmScheme": "clearkey", 
-"drmLicense": "ebe2bf81630c4f55b13ce2d5de501a7e:00673790ff976ce11bd2d3701aa8479b" 
+"drmLicense": "f201d49f317b4b09918f89f5618c7fe9:0be2aa8395067137faba42523076a3cb" 
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",
 "name": "Star Sports 2 HD", 
@@ -117,11 +97,11 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
 "cookie": "",
 "drmScheme": "clearkey", 
-"drmLicense": "72128b54ec9b44f4b2de808123155804:447524af6faa0e9b56d808a9f8b958db" 
+"drmLicense": "ef24fd519715482b8b8f44242bc8d720:8ab7ed4e8edb36d0c61f38877a1e0001" 
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",
 "name": "Star Gold HD", 
-"link": "http://212.224.84.217:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT",
+"link": "https://cdn-01.toffeelive.com/origin-06/live-origin/smil:star_gold.smil/manifest.mpd",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
