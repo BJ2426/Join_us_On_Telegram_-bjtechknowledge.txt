@@ -98,14 +98,4 @@ userAgent": "",
 "cookie": "",
 "drmScheme": "widevine", 
 "drmLicense": "DRM" 
-},{ 
-"logo": "No",
-"name": "STAR SPORTS HD HINDI", 
-"link": "http://livesportsclub.me/sports/master.m3u8/?key=MRX&c=starhindi",
-"origin": "",
-"referrer": "http://livesportsclub.me/sports/?c=starhindi",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "widevine", 
-"drmLicense": "DRM" 
-}]
+},]
