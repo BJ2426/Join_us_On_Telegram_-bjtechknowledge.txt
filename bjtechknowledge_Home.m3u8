@@ -96,6 +96,6 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "referrer": "http://livesportsclub.me/sports/?c=starhindi",
 userAgent": "", 
 "cookie": "",
-"drmScheme": "", 
+"drmScheme": "clearkey", 
 "drmLicense": "" 
 }]
