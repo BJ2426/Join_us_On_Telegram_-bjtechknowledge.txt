@@ -88,7 +88,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "cookie": "",
 "drmScheme": "clearkey", 
 "drmLicense": "498f34f9a1fe4ae3ab19903090675a1b:ce4f9c8b4e31904857089c37858c2c2a" 
-} { 
+},{ 
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",
 "name": "Humgama Kids", 
 "link": "http://146.190.166.221/madstream/hungama/index.m3u8",
