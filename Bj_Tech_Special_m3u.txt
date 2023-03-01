@@ -1,7 +1,7 @@
 [{
-"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/VH1_2003_logo.svg/2560px-VH1_2003_logo.svg.png",
-"name": "Vh1", 
-"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Vh1_HD_voot_MOB/output03/hls/index.m3u8?hdnts=st=1675833208~exp=1675919608~acl=/*~hmac=1e1044e55c8fcbdcaefb00beb9815df8ae7523e430d8ab21f0c4e24c91a33d0d",
+"logo": "https://jiotv.com/src/resources/images/JioTV_logo.png",
+"name": "JIO CRICKET HD", 
+"link": "https://watchtvs.live/getm3u8/1918/master.m3u8",
 "origin": "VOOT CH",
 "referrer": "VOOT CH",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
