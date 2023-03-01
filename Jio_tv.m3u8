@@ -8,16 +8,6 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "cookie": "",
 "drmScheme": "widevine", 
 "drmLicense": "DRM" 
-} ,{
-"logo": "https://watchtvs.live/play.html?id=144&ch=Colors_HD.png",
-"name": "COLORS HD", 
-"link": "https://watchtvs.live/getm3u8?id=144&m3u8=/jiotvmblive.cdn.jio.com/packagerx_mpd3/Colors_HD_HLS/1.m3u8",
-"origin": "",
-"referrer": "",
-userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
-"cookie": "",
-"drmScheme": "widevine", 
-"drmLicense": "DRM" 
 },{
 "logo": "https://watchtvs.live/play.html?id=154&ch=Sony_SAB.png",
 "name": "SONY SAB SD", 
@@ -32,17 +22,6 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "logo": "https://watchtvs.live/play.html?id=578&ch=History_18_Hindi.png",
 "name": "HISTORT TV HINDI", 
 "link": "https://watchtvs.live/getm3u8/578/master.m3u8",
-"origin": "",
-"referrer": "",
-userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
-"cookie": "",
-"drmScheme": "widevine", 
-"drmLicense": "DRM" 
-}, {
-"logo": "https://watchtvs.live/play.html?id=1477&ch=Color_Cineplex_HD.png",
-"name": "Colors Cineplaex HD", 
-"link": "https://watchtvs.live/getm3u8?id=1477&m3u8=/jiotvmblive.cdn.jio.com/packagerx_mpd3/Colors_Cineplex_HD_HLS/1.m3u8
-",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
