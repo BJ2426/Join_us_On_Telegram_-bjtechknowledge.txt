@@ -21,13 +21,13 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 },{
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",
 "name": "Star Sports Select 2 HD", 
-"link": "https://delta43tatasky.akamaized.net/out/i/18038.mpd",
+"link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
 "cookie": "",
 "drmScheme": "clearkey", 
-"drmLicense": "72128b54ec9b44f4b2de808123155804:447524af6faa0e9b56d808a9f8b958db" 
+"drmLicense": "b11dd25b629159868b77d5cb4cdd8129:15d7d65beb26f075be4ec5b62d8e9fa5" 
 }, {
 "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",
 "name": "Disney Hindi", 
@@ -91,13 +91,13 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 }, {
 "logo": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Bharat%20HD.png",
 "name": "STAR BHARAT HD", 
-"link": "https://delta39tatasky.akamaized.net/out/i/4242467.mpd",
+"link": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd",
 "origin": "",
 "referrer": "",
 userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
 "cookie": "",
 "drmScheme": "clearkey", 
-"drmLicense": "adc9d1bbbcbd4ee3b43034a081172489:b83680bacb70debfc249970c80c1bd1a" 
+"drmLicense": "bbbc36a45c7a5ec4878e04c437853b09:7d346e3d0925cf6833b12961cd74ca80" 
 },{
 "logo": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Pravah%20HD.png",
 "name": "STAR PRAVAH HD", 
