@@ -28,7 +28,7 @@ https://8uu8.short.gy/bjtech_Zee_Telugu.mpd
 https://8uu8.short.gy/bjtechknowledge_Zee_Cinemalu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999005&videoid=1307&vootid=1307&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2YyMjEwMGEtMGFjNy00NTc1LTk1MzgtNTZkYWIxZjk1ZGY5Iiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjgxODU2MjE5LCJleHAiOjE2ODI3MjAyMTksImlzcyI6InZvb3QifQ.Yu1b09Qv2ouOMFqPAMrXy-7aHxcjqb5kwIkJ3LEjh58
-#EXTINF:-1 tvg-id="ts842" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",group-title="ZEE 5 LITE +",Zee Talkies HD
+#EXTINF:-1 tvg-id="ts842" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",group-title="ZEE 5 LITE +",Zee Talkies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha"
 https://8uu8.short.gy/bjtech_Zee_Talkies_HD.mpd
 
