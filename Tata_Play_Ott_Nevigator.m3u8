@@ -1,0 +1,39 @@
+#EXTINF:-1 tvg-logo="" group-title="", @Local_IPTV_Store 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f201d49f317b4b09918f89f5618c7fe9:0be2aa8395067137faba42523076a3cb
+https://delta4tatasky.akamaized.net/out/i/6527246.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", STAR SPORTS 1 Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f201d49f317b4b09918f89f5618c7fe9:0be2aa8395067137faba42523076a3cb
+https://delta4tatasky.akamaized.net/out/i/6527246.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", STAR SPORTS 1 HD EN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=498f34f9a1fe4ae3ab19903090675a1b:ce4f9c8b4e31904857089c37858c2c2a
+https://delta14tatasky.akamaized.net/out/i/7136433.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", STAR SPORTS 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef24fd519715482b8b8f44242bc8d720:8ab7ed4e8edb36d0c61f38877a1e0001
+https://delta13tatasky.akamaized.net/out/i/2285199.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", DISNEY KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f27d053d83d5284859cdd8b26bb17e2:7cbeb33990380306b1f5b9a0fb4f6fd0
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", DISNEY KIDS (OLD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f27d053d83d5284859cdd8b26bb17e2:cf35c9dee8ea26b3 a3ec4f16c4ffcbe9
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", SELECT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe2bf81630c4f55b13ce2d5de501a7e:00673790ff976ce11bd2d3701aa8479b
+https://delta14tatasky.akamaized.net/out/i/4779611.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", STAR GOLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b3d4da8902f4f7cae4c774fbdf42029:f3ab3d0f2bcf4afc099342495dd58bd5
+https://delta10tatasky.akamaized.net/out/i/6298912.mpd
