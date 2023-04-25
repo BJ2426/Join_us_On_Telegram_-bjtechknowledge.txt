@@ -1,0 +1,81 @@
+[{
+"logo": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
+"name": "& Flix HD", 
+"link": "https://cflive-esports-english.zee5.com/out/v1/06a250d9346543ea9dec10fe67ce06d0/And_Flix_HD/index-connected.m3u8",
+"origin": "",
+"referrer": "",
+"userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuULDIgEi2smMcyWpqPJm_mS6tlP6Th9vuA&usqp=CAU",
+"name": "& Prive HD", 
+"link": "https://cflive-esports-english.zee5.com/out/v1/c062d6eaddd44be39d51d5270e4a151a/And_Prive_HD/index.m3u8",
+"origin": "",
+"referrer": "",
+"userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6U_6-dWlBYg-84eO7vX-31GzH-GK8V2JmKA&usqp=CAU",
+"name": "& Xplor HD", 
+"link": "https://cflive-esports-english.zee5.com/out/v1/d65715b71bd24bc2b4e36c24825e0375/And-XplorHD/index-connected.m3u8",
+"origin": "",
+"referrer": "",
+"userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/BIG_Magic_Logo.jpg",
+"name": "Big Magic", 
+"link": "https://cflive-esports-hindi.zee5.com/out/v1/96edae9dacb443dea87059953ba2c642/Big_Magic/index.m3u8",
+"origin": "",
+"referrer": "",
+"userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png",
+"name": "ZEE Cafe HD", 
+"link": "https://cflive-esports-english.zee5.com/out/v1/9c4caac23c0f49f19a6049510f2d197f/Zee_Cafe_HD/index-connected.m3u8",
+"origin": "",
+"referrer": "",
+"userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ywaeuDfDFOUkDLXpFzKKyz0hqR8KhDvMJA&usqp=CAU",
+"name": "Zee Zest HD", 
+"link": "https://cflive-esports-hindi.zee5.com/out/v1/72971de4739d4d22ab354200190dcb7a/Zee_Zest/index-connected.m3u8",
+"origin": "",
+"referrer": "",
+"userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWrytbBX6yo4v20PFVhirexWh5owviBhprg&usqp=CAU",
+"name": "Zee Bollywood", 
+"link": "https://cflive-esports-hindi.zee5.com/out/v1/640e5a500bbc4e41b440b1f529598689/Zee_Bollywood/index.m3u8",
+"origin": "",
+"referrer": "",
+"userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTFGd7tHk8_3UZ_YJhCvWtggJfRwOyMUnig&usqp=CAU",
+"name": "Zee Bioskope", 
+"link": "https://cflive-esports-english.zee5.com/out/v1/76a263bf048246a6bbbd4c5bda1aa485/Zee_Biskope/index.m3u8",
+"origin": "",
+"referrer": "",
+"userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}]
